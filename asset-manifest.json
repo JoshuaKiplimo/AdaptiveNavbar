@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AdaptiveNavbar/static/css/main.beaf029b.chunk.css",
+    "main.js": "/AdaptiveNavbar/static/js/main.046e6234.chunk.js",
+    "main.js.map": "/AdaptiveNavbar/static/js/main.046e6234.chunk.js.map",
+    "runtime-main.js": "/AdaptiveNavbar/static/js/runtime-main.4ed54dcf.js",
+    "runtime-main.js.map": "/AdaptiveNavbar/static/js/runtime-main.4ed54dcf.js.map",
+    "static/js/2.41d20619.chunk.js": "/AdaptiveNavbar/static/js/2.41d20619.chunk.js",
+    "static/js/2.41d20619.chunk.js.map": "/AdaptiveNavbar/static/js/2.41d20619.chunk.js.map",
+    "index.html": "/AdaptiveNavbar/index.html",
+    "precache-manifest.9ac7a6ba1770c5b487bc9afd70a9f00c.js": "/AdaptiveNavbar/precache-manifest.9ac7a6ba1770c5b487bc9afd70a9f00c.js",
+    "service-worker.js": "/AdaptiveNavbar/service-worker.js",
+    "static/css/main.beaf029b.chunk.css.map": "/AdaptiveNavbar/static/css/main.beaf029b.chunk.css.map",
+    "static/js/2.41d20619.chunk.js.LICENSE.txt": "/AdaptiveNavbar/static/js/2.41d20619.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/AdaptiveNavbar/static/media/logo.2bb7da65.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ed54dcf.js",
+    "static/js/2.41d20619.chunk.js",
+    "static/css/main.beaf029b.chunk.css",
+    "static/js/main.046e6234.chunk.js"
+  ]
+}
